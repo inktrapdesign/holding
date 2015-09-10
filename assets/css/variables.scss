@@ -1,0 +1,47 @@
+// Variables
+// --------------------------------------------------
+
+// Colours
+$background-color: #fff;
+$border-color: #e1e1e1;
+
+$heading-text-color: #465052;
+$base-text-color: #70787A;
+
+$button-background-color: #2E6C73;
+$button-text-color: #fff;
+
+// Forms
+$form-border-visible: true;
+$form-border-radius: 3px;
+$form-border-width: 1px;
+$form-border-color: #e1e1e1;
+$form-border: $form-border-width solid $form-border-color;
+
+// Typography
+$base-font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$icon-font-family: "Ionicons";
+
+$base-font-size: 1.25em;
+
+$base-line-height: 1.4;
+$heading-line-height: 1.2;
+
+// Breakpoints
+$xsmall: 18em; // 288px
+$small: 35em; // 560px
+$medium: 45em; // 720px
+$large: 60em; // 960px
+$xlarge: 75em; // 1200px
+
+$xs: $xsmall;
+$s: $small;
+$m: $medium;
+$l: $large;
+$xl: $xlarge;
+
+$mobile: $xsmall;
+$tablet: $medium;
+$desktop: $large;
+$wide: $xlarge;
+
